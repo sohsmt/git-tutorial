@@ -4,3 +4,4 @@
 - fix-B
 - feature-C
 - git-flow
+- git-flow2
